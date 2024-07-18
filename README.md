@@ -14,10 +14,12 @@
       ```plaintext
       2022-VX2880-4K-HDU-优派显示器手册#京东#显示器#LCD&黑色外壳.pdf
       2022-VX2880-4K-HDU-优派显示器电子目录#参数#京东#28寸#壁挂#显示器.pdf
-      2024-XS150T-16-飞度5手册#24款#摩托车.pdf
+      Surface_Pro_(第五代)_规格和功能@Microsoft.pdf
       ```
 
 2. 文件放公共仓库，在 <https://www.jsdelivr.com/github> 转换链接
+
+    - 类似的加速方式 <https://www.7ed.net/gitmirror/hub.html>
 
 3. 最后一个URL打印成二维码贴在电子产品上，想看就手机一扫
 
